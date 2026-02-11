@@ -26,7 +26,7 @@ I enjoy solving complex business problems using **Python**, **PostgreSQL**, and 
   - Inventory  
   - HR & Payroll
   - Manufacturing
-  - 
+    
 - **Customization:**  
   - Custom modules  
   - Wizards & Server Actions  
